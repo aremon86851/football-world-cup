@@ -140,12 +140,12 @@ aside {
     margin-bottom: 0 !important;
 }
 
-.active-button>a {
-    color: white;
+.link-button {
+    color: black !important;
 }
 
-.active-button>a:hover {
-    color: white !important;
+.link-button:hover {
+    color: black !important;
 }
 
 article {
